@@ -36,7 +36,7 @@ app.post("/", function(req, res) {
 
     const options = {
         method: "POST",
-        auth: "semih:e55cc5afdeeb3e6a52291a8faff145af-us9"
+        auth: ""
     }
 
 
